@@ -40,3 +40,28 @@ h1 {
     border: 2px solid rgb(255, 224, 114);
     border-radius: 5px;
   }
+  .container{
+    background-color: rgb(255, 210, 219);
+    width: 100%;
+  }
+  .row {
+    text-align: center;
+  }
+  .container-fluid .row{
+    background-color: rgb(255, 224, 237);
+  }
+  #sec-chiken {
+    border: 10px solid  rgb(53, 53, 53);
+  }
+  #sec-beef {
+    border: 10px solid  rgb(53, 53, 53);
+  }
+  #sec-sushi {
+    border: 10px solid  rgb(53, 53, 53);
+  }
+  p {
+    margin-top: 20px;
+  }
+
+
+
